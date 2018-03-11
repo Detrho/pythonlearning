@@ -1,8 +1,9 @@
 # learning python
 
 greeting = 'Hello'
-name = 'Michael'
+title = 'Mr.'
+name = 'Ho'
 
-message = '{}, {}. Welcome!'.format(greeting, name)
+message = '{}, {} {}. Welcome to Pyhton!'.format(greeting, title, name)
 
 print(message)
